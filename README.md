@@ -1,0 +1,1 @@
+# Triagem-Manchester-Politica-Privacidade

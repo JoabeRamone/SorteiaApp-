@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Política de Privacidade
 
-You can use the [editor on GitHub](https://github.com/JoabeRamone/Triagem-Manchester-Politica-Privacidade/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+É política do Triagem Manchester respeitar a sua privacidade em relação a qualquer informação sua que possamos coletar no aplicativo.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Solicitamos informações pessoais apenas quando realmente precisamos delas para lhe fornecer um serviço. Fazemo-lo por meios justos e legais, com o seu conhecimento e consentimento. Apenas retemos as informações coletadas pelo tempo necessário para fornecer o serviço solicitado. Quando armazenamos dados, protegemos dentro de meios comercialmente aceitáveis para evitar perdas e roubos, bem como acesso, divulgação, cópia, uso ou modificação não autorizados.
 
-### Markdown
+Não compartilhamos informações de identificação pessoal publicamente ou com terceiros, exceto quando exigido por lei.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Você é livre para recusar a nossa solicitação de informações pessoais, entendendo que talvez não possamos fornecer alguns dos serviços desejados.
 
-```markdown
-Syntax highlighted code block
+O uso continuado de nosso aplicativo será considerado como aceitação de nossas práticas em torno de privacidade e informações pessoais. Se você tiver alguma dúvida sobre como lidamos com dados do usuário e informações pessoais, entre em contato conosco.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Compromisso do Usuário
+O usuário se compromete a fazer uso adequado dos conteúdos e da informação que o Triagem Manchester oferece no aplicativo e com caráter enunciativo, mas não limitativo:
 
-1. Numbered
-2. List
+A) Não se envolver em atividades que sejam ilegais ou contrárias à boa fé a à ordem pública;
+B) Não divulgar conteúdo ou propaganda de natureza racista, xenofóbica, apostas online, pornografia ilegal, de apologia ao terrorismo ou contra os direitos humanos;
+C) Não causar danos aos sistemas físicos (hardwares) e lógicos (softwares) do Triagem Manchester, de seus fornecedores ou terceiros, para introduzir ou disseminar vírus informáticos ou quaisquer outros sistemas de hardware ou software que sejam capazes de causar danos anteriormente mencionados.
+Mais informações
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JoabeRamone/Triagem-Manchester-Politica-Privacidade/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Esta política é efetiva a partir de Dezembro/2020.

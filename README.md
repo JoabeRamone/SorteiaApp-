@@ -10,7 +10,7 @@ O uso continuado de nosso aplicativo será considerado como aceitação de nossa
 
 # Dados registrados no aplicativo
 
-O Triagem Manchester não faz o uso dos dados registrados nele, sendo de total responsabilidade do usuário informar à quem estiver recolhendo as informações. Todo dado salvo fica disponivel apenas no dispositivo do tal, sendo assim, tornando incapaz do Triagem Manchester fazer uso do mesmo.
+Triagem Manchester não faz o uso dos dados registrados nele, sendo de total responsabilidade do usuário informar à quem estiver recolhendo as informações. Todo dado salvo fica disponível apenas no dispositivo do tal, sendo assim, tornando incapaz do Triagem Manchester fazer uso do mesmo. 
 
 # Conta de usuário
 

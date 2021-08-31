@@ -24,4 +24,4 @@ B) Não divulgar conteúdo ou propaganda de natureza racista, xenofóbica, apost
 C) Não causar danos aos sistemas físicos (hardwares) e lógicos (softwares) do Triagem Manchester, de seus fornecedores ou terceiros, para introduzir ou disseminar vírus informáticos ou quaisquer outros sistemas de hardware ou software que sejam capazes de causar danos anteriormente mencionados.
 Mais informações
 
-Esta política é efetiva a partir de Dezembro/2020.
+Esta política é efetiva a partir de Setembro/2021.
